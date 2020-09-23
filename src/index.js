@@ -1,2 +1,5 @@
-console.log("hell", "kk", "asd");
-asd
+import React from "react";
+
+const Spinner = () => <div>Spinner</div>;
+
+export default Spinner;
