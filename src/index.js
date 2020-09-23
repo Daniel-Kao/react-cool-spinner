@@ -1,2 +1,2 @@
 console.log("hell", "kk", "asd");
-asd;
+asd
