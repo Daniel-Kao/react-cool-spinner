@@ -1,5 +1,3 @@
-import React from "react";
+export * from "./Ripple";
 
-const Spinner = () => <div>Spinner</div>;
-
-export default Spinner;
+export * from "./Spinner";
